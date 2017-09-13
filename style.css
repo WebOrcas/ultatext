@@ -54,7 +54,6 @@ body {
 	font-family: 'Roboto','Helvetica Neue','Helvetics','Arial','sans-serif';
 	font-size:larger;
 	color:#fff;
-//	text-transform: lowercase;
 }
 
 .center {
@@ -76,7 +75,7 @@ textarea {
     resize: none;
 	text-style:lowercase;
 	padding:10px;
-	background-color:#7e018c;
+	background-color:#4cdb92;
 }
 
 #output{
